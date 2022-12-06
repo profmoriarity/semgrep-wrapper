@@ -10,7 +10,7 @@ $ python3 parse-semgrep.py --input /mnt/d/Dev/dvja-master --output /mnt/d/Dev/dv
 ### Requirements
 
 ```
-pip3 install jinja2
+pip3 install jinja2 semgrep
 ```
 
 ## Example Report
